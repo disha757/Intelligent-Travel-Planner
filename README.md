@@ -1,2 +1,2 @@
-# Intelligent-Travel-Planner
-Intelligent-Travel-Planner - object detection
+# Intelligent-Traffic-Violotation
+Intelligent--Traffic-Violotation- object detection
